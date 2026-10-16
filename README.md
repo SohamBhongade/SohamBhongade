@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Soham Bhongade — Software Developer" />
+  <img src="header.svg" width="100%" alt="Soham Bhongade — Software Developer" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ I'm a student developer who builds practical software that real institutions use
 ## Featured Projects
 
 <a href="https://github.com/SohamBhongade/ICP-Library-Management-System">
-  <img src="assets/card-library.svg" width="100%" alt="ICP Library Management System" />
+  <img src="card-library.svg" width="100%" alt="ICP Library Management System" />
 </a>
 
 ### 📚 ICP Library Management System
@@ -86,7 +86,7 @@ You don't need any coding knowledge to use this app:
 <br />
 
 <a href="https://github.com/SohamBhongade/ICP_Portal">
-  <img src="assets/card-portal.svg" width="100%" alt="ICP Portal" />
+  <img src="card-portal.svg" width="100%" alt="ICP Portal" />
 </a>
 
 ### 🏛️ ICP Portal
@@ -118,7 +118,7 @@ A secure web portal that brings the college's day-to-day administration into one
 <br />
 
 <a href="https://sohambhongade.pythonanywhere.com">
-  <img src="assets/card-strideboard.svg" width="100%" alt="StrideBoard" />
+  <img src="card-strideboard.svg" width="100%" alt="StrideBoard" />
 </a>
 
 ### 👟 StrideBoard
@@ -191,5 +191,5 @@ StrideBoard turns daily walking into a friendly competition. It was built for th
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="footer.svg" width="100%" alt="" />
 </p>
