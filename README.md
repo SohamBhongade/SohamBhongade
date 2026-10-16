@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Soham Bhongade — Software Developer" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SohamBhongade"><img src="https://img.shields.io/github/followers/SohamBhongade?label=Followers&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="GitHub followers" /></a>
-  <a href="https://github.com/SohamBhongade?tab=repositories"><img src="https://img.shields.io/badge/Projects-Desktop%20%C2%B7%20Web%20%C2%B7%20Mobile-14b8a6?style=for-the-badge&labelColor=0d1117" alt="Projects" /></a>
-  <a href="https://sohambhongade.pythonanywhere.com"><img src="https://img.shields.io/badge/StrideBoard-Live-3fb950?style=for-the-badge&labelColor=0d1117" alt="StrideBoard live" /></a>
+  <img src="header.svg" width="100%" alt="Soham Bhongade — Student Developer" />
 </p>
 
 ---
@@ -13,13 +7,6 @@
 ## About
 
 I'm a student developer who builds practical software that real institutions use every day: a desktop library system for my college, a role-based college management portal, and a gamified step-tracking platform for student wellbeing. I care about clean interfaces, reliable data and software that people without any coding knowledge can install and use.
-
-| | |
-|---|---|
-| **Currently building** | ICP Portal · StrideBoard |
-| **Focus** | Desktop, web and mobile applications |
-| **Main stack** | Flutter / Dart · Next.js / TypeScript · Python · SQLite |
-| **Learning** | Advanced Flutter · Clean app architecture |
 
 ---
 
