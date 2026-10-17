@@ -13,7 +13,11 @@ I'm a student developer who builds practical software that real institutions use
 ## GitHub Achievements
 
 <!-- ACHIEVEMENTS:START -->
-<p align="center"><sub>Achievements sync automatically from my GitHub profile every day.</sub></p>
+<p align="center">
+  <a href="https://github.com/SohamBhongade?tab=achievements" title="Quickdraw"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="96" alt="Quickdraw" /></a>
+  <a href="https://github.com/SohamBhongade?tab=achievements" title="YOLO"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="96" alt="YOLO" /></a>
+</p>
+<p align="center"><sub>Quickdraw &nbsp;·&nbsp; YOLO</sub></p>
 <!-- ACHIEVEMENTS:END -->
 
 ---
