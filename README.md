@@ -42,7 +42,7 @@ I'm a student developer who builds practical software that real people use every
 ### 🛣️ Tareeq (طريق)
 > **Spot it. Snap it. Fixed. AI civic reporting for Ras Al Khaimah**
 
-Tareeq turns every resident's phone into a city sensor. Snap a photo of a pothole, a broken streetlight or a pile of rubbish, and **Google Gemini** names the problem, scores how dangerous it is and writes a description in **English and Arabic**. The report lands on a **live city map** with its exact GPS location, and city crews or community volunteers fix it. It started as *FixMyStreet AI* (a Flutter app) and was rebuilt as a website plus an Android app for the **RAK Department of Knowledge × Google** hackathon.
+Tareeq turns every resident's phone into a city sensor. Snap a photo of a pothole, a broken streetlight or a pile of rubbish, and **Google Gemini** names the problem, scores how dangerous it is and writes a description in **English and Arabic**. The report lands on a **live city map** with its exact GPS location, and city crews or community volunteers fix it. It started as *FixMyStreet AI* (a Flutter app) at the **ADU hackathon**, and was rebuilt as a website plus an Android app for the **🏆 RAK Department of Knowledge × Google Hackathon 2026**, where we pitched it live on 11 November 2026.
 
 <a href="https://github.com/SohamBhongade/Tareeq/blob/main/docs/tareeq/Tareeq_launch.mp4">
   <img src="tareeq-preview.webp" width="100%" alt="Tareeq launch video preview. Click to watch" />
